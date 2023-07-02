@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@700&display=swap');
+table, td {
+    border: 1px solid #30f808;
+    background-color: rgb(15, 36, 219);
+    border-collapse: collapse;
+    
+}
+td {
+    padding: 20px;
+    text-align: center;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 40px;
+    color: #fffefe;
+}
